@@ -7,3 +7,7 @@ s = "daniel.balaish"
 print(s)
 s2= s.rsplit(".",1)[0]
 print(s2)
+s = "daniel.balaish"
+print(s)
+s2= s.rsplit(".",1)[0]
+print(s2)
